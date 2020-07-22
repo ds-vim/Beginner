@@ -1,2 +1,0 @@
-# Beginner
-This test repository
